@@ -18,6 +18,12 @@
 		AF82D9C92113655E002D5477 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82D9C82113655E002D5477 /* Alert.swift */; };
 		AF82D9CC21136599002D5477 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = AF82D9CE21136599002D5477 /* Localizable.strings */; };
 		AF82D9D1211365F7002D5477 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82D9D0211365F7002D5477 /* String.swift */; };
+		AFFB949B21136F5C00E782C7 /* Withdrawal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82D9C52113600D002D5477 /* Withdrawal.swift */; };
+		AFFB949C21136F5C00E782C7 /* ATMViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82D9C121135886002D5477 /* ATMViewModel.swift */; };
+		AFFB949D21136F5C00E782C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82D9B72113561B002D5477 /* AppDelegate.swift */; };
+		AFFB949E21136F5C00E782C7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82D9B62113561B002D5477 /* ViewController.swift */; };
+		AFFB949F21136F5C00E782C7 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82D9C82113655E002D5477 /* Alert.swift */; };
+		AFFB94A021136F5C00E782C7 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82D9D0211365F7002D5477 /* String.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -290,6 +296,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFFB949F21136F5C00E782C7 /* Alert.swift in Sources */,
+				AFFB949E21136F5C00E782C7 /* ViewController.swift in Sources */,
+				AFFB949D21136F5C00E782C7 /* AppDelegate.swift in Sources */,
+				AFFB949B21136F5C00E782C7 /* Withdrawal.swift in Sources */,
+				AFFB94A021136F5C00E782C7 /* String.swift in Sources */,
+				AFFB949C21136F5C00E782C7 /* ATMViewModel.swift in Sources */,
 				AF3DB9A9211355C4009989D8 /* dojopuzzlesTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
