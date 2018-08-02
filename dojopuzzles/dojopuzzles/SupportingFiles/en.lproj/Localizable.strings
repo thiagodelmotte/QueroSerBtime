@@ -1,0 +1,12 @@
+
+"generalAlertSuccessTitle" = "Sucesso!";
+"generalAlertWarningTitle" = "Aviso";
+"generalAlertErrorTitle" = "Ops!";
+"generalOk" = "Ok";
+"generalWithdrawal" = "Withdrawal";
+"generalNotes" = "note(s)";
+"generalBalance" = "Balance";
+
+"withdrawalNoNotes" = "No bank notes available for this transaction.";
+"withdrawalNoBalance" = "No balance for this transaction.";
+"withdrawalTypeValue" = "Please type a value.";
